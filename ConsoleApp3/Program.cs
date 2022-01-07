@@ -13,8 +13,6 @@ Console.WriteLine("Hello, World!");
 // a;lskdjf
 //hjkhhjkl
 // asdf
-//asdf
-// asdf
 // asdfasdfasdf
 // hola lola
 // asdfasdfasdf
