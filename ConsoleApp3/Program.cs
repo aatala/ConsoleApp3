@@ -10,7 +10,6 @@ Console.WriteLine("Hello, World!");
 // asdfasdf
 // asdfasdf
 // asdfasdf
-// a;lskdjf
 //hjkhhjkl
 // asdf
 // asdfasdfasdf
