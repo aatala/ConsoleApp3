@@ -10,6 +10,5 @@ Console.WriteLine("Hello, World!");
 // asdfasdf
 // asdfasd
 // hola lola
-// just a test
 // asdfasdf
 // asdf
